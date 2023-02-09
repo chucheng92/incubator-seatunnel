@@ -24,6 +24,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-jdbc-spark-e2e</artifactId>
+    <name>SeaTunnel : E2E : Spark Connector V2 : Jdbc</name>
 
     <dependencyManagement>
         <dependencies>

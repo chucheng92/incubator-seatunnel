@@ -29,6 +29,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>checkpoint-storage-hdfs</artifactId>
+    <name>SeaTunnel : Engine : Storage : Checkpoint Storage Plugins : HDFS</name>
 
     <properties>
         <hadoop-aliyun.version>3.0.0</hadoop-aliyun.version>

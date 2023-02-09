@@ -23,8 +23,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>SeaTunnel : Shade : </name>
     <artifactId>seatunnel-shade</artifactId>
     <packaging>pom</packaging>
+
     <modules>
         <module>seatunnel-hadoop3-3.1.4-uber</module>
         <module>seatunnel-jackson</module>

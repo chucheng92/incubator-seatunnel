@@ -25,6 +25,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-mongodb-e2e</artifactId>
+    <name>SeaTunnel : E2E : Connector V2 : Mongodb</name>
 
     <dependencies>
 

@@ -28,6 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-transforms-v2</artifactId>
+    <name>SeaTunnel : Transforms : V2</name>
 
     <dependencyManagement>
         <dependencies>

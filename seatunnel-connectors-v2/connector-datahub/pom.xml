@@ -26,8 +26,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>connector-datahub</artifactId>
-    
-    <properties>
+  <name>SeaTunnel : Connectors V2 : DataHub</name>
+
+  <properties>
         <datahub.version>2.19.0-public</datahub.version>
     </properties>
 

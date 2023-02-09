@@ -33,6 +33,7 @@
     </properties>
 
     <artifactId>seatunnel-dist</artifactId>
+    <name>SeaTunnel : Dist</name>
     <packaging>pom</packaging>
 
     <build>
@@ -269,12 +270,12 @@
                     <version>${project.version}</version>
                     <scope>provided</scope>
                 </dependency>
-                <dependency>
-                    <groupId>org.apache.seatunnel</groupId>
-                    <artifactId>connector-file-oss-jindo</artifactId>
-                    <version>${project.version}</version>
-                    <scope>provided</scope>
-                </dependency>
+<!--                <dependency>-->
+<!--                    <groupId>org.apache.seatunnel</groupId>-->
+<!--                    <artifactId>connector-file-oss-jindo</artifactId>-->
+<!--                    <version>${project.version}</version>-->
+<!--                    <scope>provided</scope>-->
+<!--                </dependency>-->
                 <dependency>
                     <groupId>org.apache.seatunnel</groupId>
                     <artifactId>connector-file-ftp</artifactId>

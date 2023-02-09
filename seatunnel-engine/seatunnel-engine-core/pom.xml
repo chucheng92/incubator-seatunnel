@@ -27,6 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-engine-core</artifactId>
+    <name>SeaTunnel : Engine : Core</name>
 
     <dependencies>
         <dependency>

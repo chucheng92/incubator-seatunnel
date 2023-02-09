@@ -28,6 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-file-sftp</artifactId>
+    <name>SeaTunnel : Connectors V2 : File : Sftp</name>
 
     <dependencies>
         <dependency>

@@ -27,6 +27,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>connector-file</artifactId>
+    <name>SeaTunnel : Connectors V2 : File : </name>
     <packaging>pom</packaging>
 
     <properties>
@@ -42,7 +43,7 @@
         <module>connector-file-base-hadoop</module>
         <module>connector-file-sftp</module>
         <module>connector-file-s3</module>
-        <module>connector-file-oss-jindo</module>
+<!--        <module>connector-file-oss-jindo</module>-->
     </modules>
 
     <build>

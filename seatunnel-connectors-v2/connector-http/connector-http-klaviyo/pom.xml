@@ -28,6 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-http-klaviyo</artifactId>
+    <name>SeaTunnel : Connectors V2 : Http : Klaviyo</name>
 
     <dependencies>
         <dependency>

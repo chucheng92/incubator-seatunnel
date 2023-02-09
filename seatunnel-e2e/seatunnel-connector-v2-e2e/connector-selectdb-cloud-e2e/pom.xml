@@ -23,6 +23,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-selectdb-cloud-e2e</artifactId>
+    <name>SeaTunnel : E2E : Connector V2 : SelectDB Cloud</name>
 
     <dependencies>
         <!-- SeaTunnel connectors -->

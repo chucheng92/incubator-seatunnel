@@ -29,7 +29,7 @@
     <packaging>pom</packaging>
     <version>${revision}</version>
 
-    <name>SeaTunnel</name>
+    <name>SeaTunnel : </name>
 
     <description>
         Production ready big data processing product based on Apache Spark and Apache Flink.

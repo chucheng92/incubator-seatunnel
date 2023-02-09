@@ -29,6 +29,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>serializer-protobuf</artifactId>
+    <name>SeaTunnel : Engine : Serializer : Protobuf</name>
 
     <dependencies>
         <dependency>

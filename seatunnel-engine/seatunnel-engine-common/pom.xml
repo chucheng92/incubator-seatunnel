@@ -27,6 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-engine-common</artifactId>
+    <name>SeaTunnel : Engine : Common</name>
 
     <dependencies>
         <dependency>

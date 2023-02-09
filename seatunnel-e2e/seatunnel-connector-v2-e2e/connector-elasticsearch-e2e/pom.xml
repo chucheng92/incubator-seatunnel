@@ -24,6 +24,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-elasticsearch-e2e</artifactId>
+    <name>SeaTunnel : E2E : Connector V2 : Elasticsearch</name>
 
     <dependencies>
         <!-- SeaTunnel connectors -->

@@ -29,6 +29,7 @@
     </properties>
 
   <artifactId>connector-dingtalk</artifactId>
+  <name>SeaTunnel : Connectors V2 : DingTalk</name>
 
   <dependencies>
     <dependency>

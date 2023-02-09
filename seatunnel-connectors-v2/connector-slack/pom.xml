@@ -29,6 +29,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-slack</artifactId>
+    <name>SeaTunnel : Connectors V2 : Slack</name>
 
     <properties>
         <httpclient.version>4.5.13</httpclient.version>

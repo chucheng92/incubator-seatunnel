@@ -24,6 +24,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-translation-flink</artifactId>
+    <name>SeaTunnel : Translation : Flink :</name>
+
     <packaging>pom</packaging>
     <modules>
         <module>seatunnel-translation-flink-13</module>

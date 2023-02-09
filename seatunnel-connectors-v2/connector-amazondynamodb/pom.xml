@@ -28,6 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-amazondynamodb</artifactId>
+    <name>SeaTunnel : Connectors V2 : Amazon Dynamo DB</name>
 
     <properties>
         <amazon.awssdk>2.18.1</amazon.awssdk>

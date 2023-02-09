@@ -28,7 +28,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-kudu</artifactId>
-    
+    <name>SeaTunnel : Connectors V2 : Kudu</name>
+
     <properties>
         <kudu.version>1.11.1</kudu.version>
         <commons.lang3.version>3.4</commons.lang3.version>

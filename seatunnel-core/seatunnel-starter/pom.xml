@@ -27,6 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-starter</artifactId>
+    <name>SeaTunnel : Core : Starter</name>
 
     <dependencies>
         <dependency>

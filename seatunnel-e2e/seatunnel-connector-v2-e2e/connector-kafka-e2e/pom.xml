@@ -24,6 +24,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>connector-kafka-e2e</artifactId>
+    <name>SeaTunnel : E2E : Connector V2 : Kafka</name>
 
     <dependencies>
         <!-- SeaTunnel connectors -->

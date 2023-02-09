@@ -28,6 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>seatunnel-spark-2-starter</artifactId>
+    <name>SeaTunnel : Core : Spark Starter : 2.4</name>
 
     <dependencies>
 

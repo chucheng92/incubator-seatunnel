@@ -28,6 +28,8 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>seatunnel-common</artifactId>
 
+    <name>SeaTunnel : Common</name>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.seatunnel</groupId>

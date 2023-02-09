@@ -25,6 +25,7 @@
     <packaging>pom</packaging>
 
     <artifactId>seatunnel-spark-connector-v2-e2e</artifactId>
+    <name>SeaTunnel : E2E : Spark Connector V2 : </name>
 
     <modules>
         <module>connector-spark-e2e-base</module>
